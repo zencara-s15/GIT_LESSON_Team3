@@ -4,7 +4,7 @@ $reach = 10;
 $you = 1;
 $siem = 'Hi';
 $bro = "love you";
-$ek = "I love";
+$reacxxxh = "I love";
 $i = 'siem';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
