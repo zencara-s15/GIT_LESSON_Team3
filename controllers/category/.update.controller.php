@@ -4,7 +4,9 @@ $reach = 10;
 $hor = "I love reach so much";
 $siem = 'Hi';
 $bro = "love you";
-$ek = "I love";
+$ek = "I love"
+$i = 'siem';
+
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if (!empty($_POST['title']) and !empty($_POST['description'])) {
