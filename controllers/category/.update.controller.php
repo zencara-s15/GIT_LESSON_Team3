@@ -1,6 +1,7 @@
 <?php
 require '../../database/database.php';
 $reach = 10;
+$hor = "I love reach so much"
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if (!empty($_POST['title']) and !empty($_POST['description'])) {
