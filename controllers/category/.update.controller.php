@@ -1,10 +1,10 @@
 <?php
 require '../../database/database.php';
 $reach = 10;
-$hor = "I love reach so much";
+$you = 1;
 $siem = 'Hi';
 $bro = "love you";
-$ek = "I love"
+$ek = "I love";
 $i = 'siem';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
